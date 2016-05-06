@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  author: Glen Stummer
+  description: Installs packages via cask.
+  company: 
+  license: license (BSD)
+  min_ansible_version: 1.9
+  platforms:
+    - name: GenericUNIX
+      versions:
+        - all
+        - any
+  galaxy_tags:
+    - development
+    - system
+    - packaging
