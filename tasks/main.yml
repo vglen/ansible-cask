@@ -29,9 +29,6 @@
       - caffeine
       - chrome-devtools
       - cord
-      - dash
-      - dayone-cli
-      - dogecoin
       - dropbox
       - evernote
       - github-desktop
@@ -50,7 +47,6 @@
       - macvim
       - mysqlworkbench
       - mamp
-      - nmap
       - owasp-zap
       - pgadmin3
       - sublime-text
