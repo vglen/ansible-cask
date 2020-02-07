@@ -22,16 +22,10 @@
       name={{ item }}
       state=present
     with_items:
-      - anvil
-      - appcleaner
-      - caffeine
       - chrome-devtools
       - cord
-      - dropbox
-      - evernote
       - github-desktop
       - google-chrome
-      - google-hangouts
       - gpgtools
       - handbrake
       - istat-menus
@@ -42,9 +36,7 @@
       - mactex
       - macvim
       - mysqlworkbench
-      - mamp
-      - owasp-zap
-      - pgadmin3
+      - pgadmin4
       - sublime-text
       - terraform
       - textwrangler
@@ -53,9 +45,6 @@
       - transmission
       - tunnelblick
       - virtualbox
-      - vmware-fusion
-      - xquartz
       - vagrant
       - vagrant-manager
       - virtualbox
-      - wireshark
