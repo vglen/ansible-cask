@@ -22,8 +22,6 @@
       name={{ item }}
       state=present
     with_items:
-      - amazon-music
-      - amazon-workspaces
       - anvil
       - appcleaner
       - caffeine
@@ -36,8 +34,6 @@
       - google-hangouts
       - gpgtools
       - handbrake
-      - intellij-idea
-      - iphone-backup-extractor
       - istat-menus
       - istumbler
       - iterm2
@@ -59,4 +55,7 @@
       - virtualbox
       - vmware-fusion
       - xquartz
+      - vagrant
+      - vagrant-manager
+      - virtualbox
       - wireshark
