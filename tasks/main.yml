@@ -22,28 +22,18 @@
       name={{ item }}
       state=present
     with_items:
-      - chrome-devtools
-      - cord
       - github-desktop
-      - google-chrome
       - gpgtools
-      - handbrake
+      - insomnia
       - istat-menus
-      - istumbler
       - iterm2
       - java
       - macdown
       - mactex
       - macvim
-      - mysqlworkbench
       - pgadmin4
       - sublime-text
       - terraform
-      - textwrangler
-      - tower
-      - transmit
-      - transmission
-      - tunnelblick
       - virtualbox
       - vagrant
       - vagrant-manager
